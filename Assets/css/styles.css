@@ -1,0 +1,12 @@
+.row {
+    border: 10px solid green;
+
+}
+
+.col-md-8 {
+    border: 10px solid purple;
+}
+
+.col-md-4 {
+    border: 10px solid red;
+}
