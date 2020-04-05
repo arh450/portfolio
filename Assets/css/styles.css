@@ -10,3 +10,7 @@
 .col-md-4 {
     border: 10px solid red;
 }
+
+.col-md-6 {
+    border: 10px solid yellow;
+}
