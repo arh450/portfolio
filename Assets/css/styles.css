@@ -1,24 +1,10 @@
-.row {
-    border: 10px solid green;
-
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
-.col-md-8 {
-    border: 10px solid purple;
+body {
+    background-color: #d9dcd6;
 }
 
-.col-md-4 {
-    border: 10px solid red;
-}
-
-.col-md-6 {
-    border: 10px solid yellow;
-}
-
-.col-sm-12 {
-    border: 10px solid blue;
-}
-
-.footer {
-    
-}
