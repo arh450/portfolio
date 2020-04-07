@@ -9,20 +9,27 @@ body {
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     
 }
 
+.navbar {
+    background-color: #2e4045;
+    padding: 0;
+}
+
 .navbar-brand {
-    background-color: 	#4f5b66;
+    background-color: #4f5b66;
     color: #ffffff;
-    font-family: 'Creepster', cursive;
-    font-size: 28px;
+    font-family: 'Vollkorn', serif;
+    font-size: 30px;
     padding: 20px;
+    
 
 }
 
 .navbar-brand:hover {
-    color: #65737e;
+    color: #83adb5;
 }
 
 .nav-link {
@@ -31,7 +38,7 @@ body {
 }
 
 .nav-link:hover {
-    color: #65737e;
+    color: #83adb5;
 
 }
 
@@ -40,7 +47,12 @@ body {
 }
 
 .page-header {
-    border-bottom: 5px solid #65737e;
+    padding: 10px;
+    border-bottom: 2px solid #83adb5;
+    font-family: 'Vollkorn', serif;
+    color: #4f5b66;
+    font-size: 15px;
+
 
 }
 .col-md-8 {
@@ -54,10 +66,10 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
-    border-top: 5px solid #65737e;
+    border-top: 5px solid #83adb5;
 }
 
 .navbar-text {
-    color: #c0c5ce;
+    color: #ffffff;
 }
 
