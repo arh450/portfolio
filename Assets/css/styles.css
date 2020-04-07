@@ -21,11 +21,9 @@ body {
 .navbar-brand {
     background-color: #4f5b66;
     color: #ffffff;
-    font-family: 'Vollkorn', serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     padding: 20px;
-    
-
 }
 
 .navbar-brand:hover {
@@ -44,20 +42,24 @@ body {
 
 .main-content {
     margin-top: 30px;
+    margin-bottom: 300px;
+    
 }
 
 .page-header {
     padding: 10px;
     border-bottom: 2px solid #83adb5;
-    font-family: 'Vollkorn', serif;
+    font-family: 'Roboto', sans-serif;
     color: #4f5b66;
     font-size: 15px;
 
 
 }
+
 .col-md-8 {
     background-color: #ffffff;
     padding: 20px;
+    
     
 }
 
@@ -73,3 +75,8 @@ body {
     color: #ffffff;
 }
 
+
+#content-box {
+    margin-left: 0;
+
+}
