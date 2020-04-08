@@ -69,20 +69,12 @@ body {
 /* image column */
 
 
-.my-image {
+.img-fluid {
     max-width: 100%;
-    max-height: 250px;
+    max-height: auto;
     padding: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
-}
-
-@media screen and (max-width: 640px) {
-    .my-image {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
 }
 
 /* text column */
