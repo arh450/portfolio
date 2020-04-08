@@ -100,4 +100,7 @@ p {
     color: #ffffff;
 }
 
-
+.img-thumbnail {
+    width: 100%;
+    height: 300px;
+}
