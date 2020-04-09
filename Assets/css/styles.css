@@ -103,4 +103,21 @@ p {
 .img-thumbnail {
     width: 100%;
     height: 300px;
+    position: relative;
+    text-align: center;
+}
+
+#absolute {
+    position: absolute;
+    background-color: #4f5b66;
+    color: #ffffff;
+    text-align: center;
+    left: 21px;
+    right: 21px;
+    bottom: 40px;
+    padding: 20px;
+}
+
+#absolute:hover {
+    color: #83adb5;
 }
