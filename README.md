@@ -1,8 +1,11 @@
 ## Welcome to My Responisve Portfolio!
 
 ### Description
-This a comprehensive responsive website that gives a brief inrtoduction to who I am, past/current experiences, links to GitHub profile, and other ways to get in contact with me.  
+This a comprehensive responsive website that gives a brief inrtoduction to who I am, past/current experiences, links to GitHub profile, and other ways to get in contact with me.
 
+Any and all feedback is welcomed and appreciated.  
+
+### Features
 Using the URL provided below you can use the site to navigate to three-diffrent web-pages that contain the following and are built for various mobile and desktop screens:
 
 * Responsive Bootstrap 4 Navbar (for header and footer), Nav-brand, and Nav-links
@@ -15,6 +18,10 @@ Using the URL provided below you can use the site to navigate to three-diffrent 
 * Thumbnail images that link to other profiles/projects
 
 * Structure, components and styling built with HTML5, Bootstrap 4, and CSS3
+
+## URL
+
+https://gheptig.github.io/responsive-portfolio/
 
 ## Preview Screenshots
 
@@ -29,3 +36,8 @@ Using the URL provided below you can use the site to navigate to three-diffrent 
 ### Contact
 
 ![Screenshot of Contact Page](https://raw.githubusercontent.com/gheptig/responsive-portfolio/master/assets-v2/images-v2/contactpreview.PNG)
+
+
+## Contributers/Authors
+
+Augustus Heptig - [Link to GitHub Profile](https://github.com/gheptig)
