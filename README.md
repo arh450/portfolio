@@ -16,4 +16,16 @@ Using the URL provided below you can use the site to navigate to three-diffrent 
 
 * Structure, components and styling built with HTML5, Bootstrap 4, and CSS3
 
-## Preview
+## Preview Screenshots
+
+### About Me
+
+![Screenshot of About Me Page] (https://raw.githubusercontent.com/gheptig/responsive-portfolio/master/assets-v2/images-v2/aboutmepreview.PNG)
+
+### Portfolio
+
+![Screenshot of Portfolio Page] (https://raw.githubusercontent.com/gheptig/responsive-portfolio/master/assets-v2/images-v2/portfoliopreview.PNG)
+
+### Contact
+
+![Screenshot of Contact Page] (https://raw.githubusercontent.com/gheptig/responsive-portfolio/master/assets-v2/images-v2/contactpreview.PNG)
