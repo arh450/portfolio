@@ -20,12 +20,12 @@ Using the URL provided below you can use the site to navigate to three-diffrent 
 
 ### About Me
 
-![Screenshot of About Me Page] (assets-v2/images-v2/aboutmepreview.PNG)
+![Screenshot of About Me](assets-v2/images-v2/aboutmepreview.PNG)
 
 ### Portfolio
 
-![Screenshot of Portfolio Page] (assets-v2/images-v2/portfoliopreview.PNG)
+![Screenshot of Portfolio Page](assets-v2/images-v2/portfoliopreview.PNG)
 
 ### Contact
 
-![Screenshot of Contact Page] (assets-v2/images-v2/contactpreview.PNG)
+![Screenshot of Contact Page](https://raw.githubusercontent.com/gheptig/responsive-portfolio/master/assets-v2/images-v2/contactpreview.PNG)
