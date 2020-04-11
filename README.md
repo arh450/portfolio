@@ -41,3 +41,7 @@ https://gheptig.github.io/responsive-portfolio/
 ## Contributers/Authors
 
 Augustus Heptig - [Link to GitHub Profile](https://github.com/gheptig)
+
+All portfolio page images were found on Unsplash "The internet’s source of freely usable images.
+Powered by creators everywhere."
+
