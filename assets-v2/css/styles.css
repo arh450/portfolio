@@ -92,10 +92,12 @@ p {
 /* STYLING FOR PORTFOLIO PAGE ONLY */
 .img-thumbnail {
     width: 100%;
-    height: 300px;
+    height: auto;
     position: relative;
     text-align: center;
 }
+
+
 
 #absolute {
     position: absolute;
