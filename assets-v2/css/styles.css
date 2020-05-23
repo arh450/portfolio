@@ -97,9 +97,7 @@ p {
     text-align: center;
 }
 
-
-
-#absolute {
+#absolute-deploy {
     position: absolute;
     background-color: #4f5b66;
     font-family: 'Roboto', sans-serif;
@@ -107,13 +105,31 @@ p {
     text-align: center;
     left: 21px;
     right: 21px;
-    bottom: 40px;
-    padding: 20px;
+    bottom: 81px;
+    padding: 5px;
 }
 
-#absolute:hover {
+#absolute-repo {
+    position: absolute;
+    background-color: #83adb5;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    left: 21px;
+    right: 21px;
+    bottom: 40px;
+    padding: 5px;
+}
+
+#absolute-deploy:hover {
     color: #83adb5;
 }
+
+#absolute-repo:hover {
+    color: #4f5b66;
+}
+
+
 /* END OF PORTFOLIO PAGE STYLING */
 
 
