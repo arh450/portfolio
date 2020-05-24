@@ -1,47 +1,42 @@
-## Welcome to My Responisve Portfolio!
+## Welcome to My Portfolio
 
-### Description
-This a comprehensive responsive website that gives a brief inrtoduction to who I am, past/current experiences, links to GitHub profile, and other ways to get in contact with me.
+## Description
+This a comprehensive responsive website that gives a brief inrtoduction to who I am, past/current experiences, links to GitHub profile/projects, and other ways to get in contact with me.
 
 Any and all feedback is welcomed and appreciated.  
 
-### Features
-Using the URL provided below you can use the site to navigate to three-diffrent web-pages that contain the following and are built for various mobile and desktop screens:
+### URL
+https://gheptig.github.io/portfolio/
 
-* Responsive Bootstrap 4 Navbar (for header and footer), Nav-brand, and Nav-links
-    * Nav-brand displaying name links to GitHub profile
-    * Nav-links link to appropiate HTML page
-    
-* Content sections that utilize row/column Bootstrap 4 Grid System
-    * Images and text containied in these content sections are responsive and respond accordingly at various breakpoints
+### Technical Features
 
-* Thumbnail images that link to other profiles/projects
+* [HMTL](https://developer.mozilla.org/en-US/docs/Web/HTML) - Gives application it's structure and DOM elements.
 
-* Structure, components and styling built with HTML5, Bootstrap 4, and CSS3
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Used to style the html elements/application.
 
-## URL
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - Grid/Column system used to create page layout/structure.  Also used to create and style elements such as buttons, navbar, and modal.
 
-https://gheptig.github.io/responsive-portfolio/
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Used to dynamically display modal elements on html and get website to function/operate.
+
+* [jQuery](https://jquery.com/) -  Used to simplify JavaScript code and DOM traversal.
+
 
 ## Preview Screenshots
 
 ### About Me
 
-![Screenshot of About Me](assets-v2/images-v2/aboutmepreview.PNG)
+![Screenshot of About Me](assets-v2/images-v2/aboutme_screenshot.PNG)
 
 ### Portfolio
 
-![Screenshot of Portfolio Page](assets-v2/images-v2/portfoliopreview.PNG)
+![Screenshot of Portfolio Page](assets-v2/images-v2/portfolio_screenshot.PNG)
 
 ### Contact
 
-![Screenshot of Contact Page](https://raw.githubusercontent.com/gheptig/responsive-portfolio/master/assets-v2/images-v2/contactpreview.PNG)
+![Screenshot of Contact Page](assets-v2/images-v2/contact_screenshot.PNG)
 
 
 ## Contributers/Authors
 
-Augustus Heptig - [Link to GitHub Profile](https://github.com/gheptig)
-
-All portfolio page images were found on Unsplash "The internet’s source of freely usable images.
-Powered by creators everywhere."
+Augustus Heptig
 

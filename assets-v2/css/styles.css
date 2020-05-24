@@ -134,13 +134,6 @@ p {
 
 
 /* STYLING FOR CONTACT PAGE ONLY  */
-/* .form-group {
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    color :#4f5b66;
-    margin-top: 10px;
-    margin-left: 10px;
-} */
 
 .contact-list {
     list-style-type: none;
@@ -180,6 +173,7 @@ p {
 #contact-text{
     font-size: 24px;
 }
+
 /* END OF CONTACT PAGE STYLING */
 
 
